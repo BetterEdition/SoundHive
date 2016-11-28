@@ -36,6 +36,7 @@ public class SoundHive extends Application
     {
         launch(args);
         System.out.println("fi49fijaerofoadfndsio");
+        System.out.println("nej");
     }
     
 }
